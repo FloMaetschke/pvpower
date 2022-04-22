@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://flomaetschke.github.io/pvpower/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://flomaetschke.github.io/pvpower/</loc>
+</url>
+<url>
+<loc>https://flomaetschke.github.io/pvpower/impressum.html</loc>
+<lastmod>2022-04-22T10:49:26+02:00</lastmod>
+</url>
+<url>
+<loc>https://flomaetschke.github.io/pvpower/pvpower-is-getting-ready.html</loc>
+<lastmod>2022-04-22T14:35:39+02:00</lastmod>
+<image:image>
+<image:loc>https://flomaetschke.github.io/pvpower/media\posts\1/Profi-Support.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://flomaetschke.github.io/pvpower/so-wirds-gemacht.html</loc>
+<lastmod>2022-04-22T10:59:15+02:00</lastmod>
+</url>
+</urlset>

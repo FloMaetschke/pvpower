@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PVPower",
+    "description": "",
+    "home_page_url": "https://flomaetschke.github.io/pvpower",
+    "feed_url": "https://flomaetschke.github.io/pvpower/feed.json",
+    "user_comment": "",
+    "icon": "https://flomaetschke.github.io/pvpower/media/website/PVPower.png",
+    "author": {
+        "name": "Florian Mätschke"
+    },
+    "items": [
+        {
+            "id": "https://flomaetschke.github.io/pvpower/pvpower-is-getting-ready.html",
+            "url": "https://flomaetschke.github.io/pvpower/pvpower-is-getting-ready.html",
+            "title": "Ihr Regionaler Fachpartner",
+            "content_html": "<h5 class=\"card-title  mb-2 ihrsonnenerfolg-text-size-h3\">Der Spezialist aus Hildesheim, Niedersachsen</h5>\n<p>Ein Ansprechpartner, vor allem, wenn es darauf ankommt! Schnell und zuverlässig. Ihr Vertrauen ist bei Ihrem Nachbar aus der Region gut angelegt. </p>\n<p> </p>\n<p>Email: <a href=\"mailto:pv@pvpower.com\">pv@pvpower.com</a></p>\n<p> </p>",
+            "image": "https://flomaetschke.github.io/pvpower/media/posts/1/Profi-Support.jpg",
+            "author": {
+                "name": "Florian Mätschke"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-21T15:49:51+02:00",
+            "date_modified": "2022-04-22T14:35:39+02:00"
+        }
+    ]
+}

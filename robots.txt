@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://flomaetschke.github.io/pvpower/sitemap.xml
